@@ -89,6 +89,13 @@ nav a:hover
     margin-left: 2%;
 }
 
+#mic {
+    float: right;
+    position: relative;
+    padding-top: 2%;
+    margin-right: 2%;
+}
+
 #buttons {
     height: auto;
     width: auto;
